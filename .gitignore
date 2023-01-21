@@ -1,0 +1,6 @@
+venv2/
+venv/
+.env
+.DS_Store
+__pycache__/
+chatgpt.egg-info/
